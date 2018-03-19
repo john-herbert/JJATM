@@ -41,7 +41,7 @@ __________________
 
 Testing
 ___________________
-No time to add unit tests I'm afraid - kids, job etc...
+JUnits also included. These will be fired off once the mvn package command.
 
 
 Best Regards,
