@@ -6,6 +6,10 @@ public class Account {
 	private int overDraft = 0;
 	private int balance = 0;
 
+
+	public Account(){
+	}
+
 	Account(int accNum, int pin, int bal, int oDraft){
 		setAccNumber(accNum);
 		setPIN(pin);
