@@ -41,7 +41,7 @@ __________________
 
 Testing
 ___________________
-JUnits also included. These will be fired off once the mvn package command.
+JUnits also included. These will be fired off once the mvn package command is initiated.
 
 
 Best Regards,
