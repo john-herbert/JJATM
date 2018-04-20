@@ -1,4 +1,4 @@
-# JJATM
+# ATM
 ATM Using Spring Boot and Rest with Tomcat Server
 
 Building & Running
