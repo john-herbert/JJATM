@@ -1,6 +1,3 @@
-
-package com.jjproject.app;
-
 import services.ATMValue;
 import services.Account;
 import services.AccountService;
